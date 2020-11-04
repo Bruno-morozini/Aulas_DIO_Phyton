@@ -5,8 +5,10 @@ subtracao = a - b
 multiplicacao = a * b
 divisão = a / b
 resto = a % b
+diferenca = a // b
 print("soma: ", soma)
 print(subtracao)
 print(multiplicacao)
 print(divisão)
-print(resto) 
+print(resto)
+print(diferenca)
